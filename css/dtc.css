@@ -109,12 +109,12 @@
 }
 
 .guild-1EfMGQ.unread-qLkInr:before {
-    border-radius: 50%;
-    height: 12px;
-    width: 12px;
-    margin-top: -5px;
+  border-radius: 50%;
+  height: 12px;
+  width: 12px;
+  margin-top: -5px;
 }
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr::before {
-    left: 0;
+  left: 0;
 }
