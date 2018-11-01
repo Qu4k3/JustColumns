@@ -37,7 +37,6 @@
   position: relative;
   left: 0;
   margin: auto;
-  margin-top: 15px;
 }
 
 #bd-pub-li {
@@ -83,11 +82,13 @@
   left: 0;
 }
 
+/*
 #bd-pub-li {
   position: absolute;
   top: 90px;
   left: 35px;
 }
+*/
 
 .unreadMentionsIndicatorBottom-BXS58x {
   display: none;
@@ -95,4 +96,25 @@
 
 .theme-dark .guild-1EfMGQ.unread-qLkInr:before {
   background: var(--unread-bullet-color);
+}
+
+.theme-dark .homeIcon-1FoKUJ {
+  display: none;
+}
+
+.dms-rcsEnV .guild-1EfMGQ:first-child {
+  margin: 0 !important;
+  margin-left: 8px !important;
+  margin-top: 8px !important;
+}
+
+.guild-1EfMGQ.unread-qLkInr:before {
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    margin-top: -5px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr::before {
+    left: 0;
 }
