@@ -1,9 +1,20 @@
 //META{"name":"Discord Double Column","description":"Theme made by Quake#1470, updates will come up if Discord applies changes","author":"Quake#1470","version":"1.0"}*//{}
 @import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/Qu4k3/discord-multicolumn/master/css/ddc.css);
 
-
 /* DON'T TOUCH THE LINES ABOVE */
 
+
+:root {
+    /* Edit this to change your friends icon picture  */
+    --friends-icon: url(https://discordapp.com/assets/89576a4bb71f927eb20e8aef987b499b.svg);
+    /* Edit this to change your friends icon picture position  */
+    --friends-icon-position: 50% 50%;
+    /* Edit this to change your friends icon picture zoom  */
+    --friends-icon-zoom: 80%;
+
+    /* Edit this to change the color of the bullet over unread servers */
+    --unread-bullet-color: #8a8e94;
+}
 
 /* ADD CODE BELOW TO CUSTOMIZE THE THEME */
 
