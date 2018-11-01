@@ -2,10 +2,7 @@
 JustColumns is a light modified theme for Discord (with [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest))
 
 ## Notes
-In the appearance settings make sure **Dark** is selected.
-
 This theme is **NOT** minimal mode compatible.
-
 
 ## Variations
 #### Double Column Server List
