@@ -95,7 +95,7 @@
 }
 
 .theme-dark .guild-1EfMGQ.unread-qLkInr:before {
-  background: var(--unread-bullet-color);
+    background: var(--unread-bullet-color) !important;
 }
 
 .theme-dark .homeIcon-1FoKUJ {

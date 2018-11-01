@@ -1,5 +1,5 @@
-//META{"name":"Discord Triple Column","description":"Theme made by Quake#1470, updates will come up if Discord applies changes","author":"Quake#1470","version":"1.0"}*//{}
-@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/Qu4k3/discord-multicolumn/master/css/dtc.css);
+//META{"name":"JustColumns - triple column server listing","description":"Theme made by Quake#1470, updates will come up automatiically if Discord applies changes","author":"Quake#1470","version":"1.0"}*//{}
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/Qu4k3/JustColumns/master/css/dtc.css);
 
 /* DON'T TOUCH THE LINES ABOVE */
 
@@ -13,7 +13,7 @@
     --friends-icon-zoom: 80%;
     
     /* Edit this to change the color of the bullet over unread servers */
-    --unread-bullet-color: #f04747;
+    --unread-bullet-color: #f04747;  /* default: #8a8e94 */
 }
 
 /* ADD CODE BELOW TO CUSTOMIZE THE THEME */
