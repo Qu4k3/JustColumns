@@ -1,5 +1,5 @@
 # JustColumns
-JustColumns is a light modified theme for Discord (with BetterDiscord)
+JustColumns is a light modified theme for Discord (with [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest))
 
 The theme respects all the default Discord look but adding just more columns to the app for a better server listing.
 
