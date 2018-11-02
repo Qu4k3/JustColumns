@@ -14,7 +14,21 @@
 
     /* Edit this to change the color of the bullet over unread servers */
     --unread-bullet-color: #f04747; /* default: #8a8e94 */
+	/* Edit this to change the animation effect of the bullet over unread servers */
+    --unread-animation: none; /* Available: none, bounce, hue-rotate, pulse, shake; */
+    /* Edit this to change the animation duration of the bullet over unread servers */
+    --unread-animation-duration: 2s;
 }
+
+/* ANIMATIONS
+
+none - no animation
+bounce - recommended 2s
+hue-rotate - recomended between 3s and 6s (depending on your bullet color)
+pulse - recomended 1s
+shake - recomended 2s
+
+*/
 
 /* ADD CODE BELOW TO CUSTOMIZE THE THEME */
 
