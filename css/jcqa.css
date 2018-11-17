@@ -1,0 +1,223 @@
+/* DON'T TOUCH THE CODE BELOW */
+
+.guilds-1q_RqH > .guild-1EfMGQ:first-child > .guildInner-3DSoA4 {
+  background: var(--friends-icon) !important;
+  background-position: var(--friends-icon-position) !important;
+  background-repeat: no-repeat !important;
+  background-size: var(--friends-icon-zoom) !important;
+}
+
+.guildsWrapper-5TJh6A {
+  width: 297px;
+}
+
+.guildsWrapper-5TJh6A .scroller-wrap {
+  width: 306px;
+}
+
+.guilds-1q_RqH > .guild-1EfMGQ:nth-last-child(2) {
+  margin-right: 0;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH {
+  display: flex;
+  flex-flow: row wrap;
+  padding-left: 0;
+  align-content: flex-start;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {
+  margin-left: 8px;
+  margin-top: 8px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr::before {
+  left: -2px;
+  top: 5px;
+  z-index: 9000;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-child {
+  position: relative;
+  left: 0;
+  margin: auto;
+}
+
+#bd-pub-li {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#bd-pub-li #bd-pub-button {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guildSeparator-1X4GQ1 {
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {
+  position: relative;
+  width: 100%;
+  margin: auto;
+  margin-top: 5px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before {
+  display: none;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {
+  position: relative;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV .guild-1EfMGQ {
+  left: 0;
+}
+
+/*
+#bd-pub-li {
+  position: absolute;
+  top: 90px;
+  left: 35px;
+}
+*/
+
+.unreadMentionsIndicatorBottom-BXS58x {
+  display: none;
+}
+
+.theme-dark .guild-1EfMGQ.unread-qLkInr:before {
+  background: var(--unread-bullet-color) !important;
+  animation: var(--unread-animation) var(--unread-animation-duration) linear infinite;
+}
+
+.theme-dark .homeIcon-1FoKUJ {
+  display: none;
+}
+
+.dms-rcsEnV .guild-1EfMGQ:first-child {
+  margin: 0 !important;
+  margin-left: 8px !important;
+  margin-top: 8px !important;
+}
+
+.guild-1EfMGQ.unread-qLkInr:before {
+  border-radius: 50%;
+  height: 12px;
+  width: 12px;
+  margin-top: -5px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr::before {
+  left: 0;
+}
+
+
+
+/* ANIMATIONS */
+
+@keyframes none {
+  
+}
+
+@keyframes bounce {
+  from,
+  20%,
+  53%,
+  80%,
+  to {
+    -webkit-animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  40%,
+  43% {
+    -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    -webkit-transform: translate3d(0, -5px, 0);
+    transform: translate3d(0, -5px, 0);
+  }
+
+  70% {
+    -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    -webkit-transform: translate3d(0, -3px, 0);
+    transform: translate3d(0, -3px, 0);
+  }
+
+  90% {
+    -webkit-transform: translate3d(0, -1px, 0);
+    transform: translate3d(0, -1px, 0);
+  }
+}
+
+@keyframes hue-rotate {
+    0% {
+        -webkit-filter: hue-rotate(0);
+        -moz-filter: hue-rotate(0);
+        -ms-filter: hue-rotate(0);
+        filter: hue-rotate(0);
+    }
+    100% {
+        -webkit-filter: hue-rotate(360deg);
+        -moz-filter: hue-rotate(360deg);
+        -ms-filter: hue-rotate(360deg);
+        filter: hue-rotate(360deg);
+    }
+}
+
+@keyframes pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.2, 1.2, 1.2);
+    transform: scale3d(1.2, 1.2, 1.2);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes shake {
+  from,
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  10%,
+  30%,
+  50%,
+  70%,
+  90% {
+    -webkit-transform: translate3d(-2px, 0, 0);
+    transform: translate3d(-2px, 0, 0);
+  }
+
+  20%,
+  40%,
+  60%,
+  80% {
+    -webkit-transform: translate3d(2px, 0, 0);
+    transform: translate3d(2px, 0, 0);
+  }
+}

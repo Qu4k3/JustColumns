@@ -1,0 +1,36 @@
+//META{"name":"JustColumns - triple column server listing","description":"Theme made by Quake#1470, updates will come up automatiically if Discord applies changes","author":"Quake#1470","version":"1.0"}*//{}
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/Qu4k3/JustColumns/master/css/jct.css);
+
+/* DON'T TOUCH THE LINES ABOVE */
+
+
+:root {
+    /* Edit this to change your friends icon picture  */
+    --friends-icon: url(https://discordapp.com/assets/89576a4bb71f927eb20e8aef987b499b.svg);
+    /* Edit this to change your friends icon picture position  */
+    --friends-icon-position: 50% 50%;
+    /* Edit this to change your friends icon picture zoom  */
+    --friends-icon-zoom: 80%;
+
+    /* Edit this to change the color of the bullet over unread servers */
+    --unread-bullet-color: #f04747; /* default: #8a8e94 */
+	/* Edit this to change the animation effect of the bullet over unread servers */
+    --unread-animation: none; /* Available: none, bounce, hue-rotate, pulse, shake; */
+    /* Edit this to change the animation duration of the bullet over unread servers */
+    --unread-animation-duration: 2s;
+}
+
+/* ANIMATIONS
+
+none - no animation
+bounce - recommended 2s
+hue-rotate - recommended between 3s and 6s (depending on your bullet color)
+pulse - recommended 1s
+shake - recommended 2s
+
+*/
+
+/* ADD CODE BELOW TO CUSTOMIZE THE THEME */
+
+
+
