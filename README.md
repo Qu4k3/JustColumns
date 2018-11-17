@@ -3,13 +3,13 @@ JustColumns is a light modified theme for Discord (with [BetterDiscord](https://
 
 The theme respects all the default Discord look but adding just more columns to the app for a better server listing.
 
-* **Double Column Server List**: [JCDouble.theme.css](https://github.com/Qu4k3/JustColumns/blob/master/JCDouble.theme.css)
+* **Double Column Server List**: [JCDouble.theme.css](https://raw.githubusercontent.com/Qu4k3/JustColumns/blob/master/JCDouble.theme.css)
 
-* **Triple Column Server List**: [JCTriple.theme.css](https://github.com/Qu4k3/JustColumns/blob/master/JCTriple.theme.css)
+* **Triple Column Server List**: [JCTriple.theme.css](https://raw.githubusercontent.com/Qu4k3/JustColumns/blob/master/JCTriple.theme.css)
 
-* **Quadruple Column Server List**: [JCQuadruple.theme.css](https://github.com/Qu4k3/JustColumns/blob/master/JCQuadruple.theme.css) _...seriously ?_ - why not
+* **Quadruple Column Server List**: [JCQuadruple.theme.css](https://raw.githubusercontent.com/Qu4k3/JustColumns/blob/master/JCQuadruple.theme.css) _...seriously ?_ - why not
 
-* **Quintuple Column Server List**: [JCQuintuple.theme.css](https://github.com/Qu4k3/JustColumns/blob/master/JCQuintuple.theme.css) _...really necessary ??_ - there are all kind of people in this world
+* **Quintuple Column Server List**: [JCQuintuple.theme.css](https://raw.githubusercontent.com/Qu4k3/JustColumns/blob/master/JCQuintuple.theme.css) _...really necessary ??_ - there are all kind of people in this world
 
 ## Variations
 ![JustColumns columns](https://i.imgur.com/aUHBcGJ.jpg)
