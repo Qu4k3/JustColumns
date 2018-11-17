@@ -9,7 +9,7 @@ The theme respects all the default Discord look but adding just more columns to 
 
 * **Quadruple Column Server List**: [JCQuadruple.theme.css](https://github.com/Qu4k3/JustColumns/blob/master/JCQuadruple.theme.css) _...seriously ?_ - why not
 
-* **Quintuple Column Server List**: [JQuintuple.theme.css](https://github.com/Qu4k3/JustColumns/blob/master/JQuintuple.theme.css) _...really necessary ??_ - there are all kind of people in this world
+* **Quintuple Column Server List**: [JCQuintuple.theme.css](https://github.com/Qu4k3/JustColumns/blob/master/JCQuintuple.theme.css) _...really necessary ??_ - there are all kind of people in this world
 
 ## Variations
 ![JustColumns columns](https://i.imgur.com/aUHBcGJ.jpg)
