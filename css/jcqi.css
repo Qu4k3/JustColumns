@@ -8,11 +8,11 @@
 }
 
 .guildsWrapper-5TJh6A {
-  width: 297px;
+  width: 298px;
 }
 
 .scrollerWrap-1IAIlv {
-  width: 297px;
+  width: 298px;
 }
 
 .guildsWrapper-5TJh6A .scroller-wrap {
@@ -124,6 +124,9 @@
   left: 0;
 }
 
+.guilds-1q_RqH > .guild-1EfMGQ:nth-last-child(2) {
+  margin-right: 0;
+}
 
 
 /* ANIMATIONS */
