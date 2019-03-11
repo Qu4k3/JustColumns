@@ -118,6 +118,10 @@
   height: 12px;
   width: 12px;
   margin-top: -5px;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  z-index: 20;
 }
 
 .wrapper-1Rf91z .scroller-2TZvBN .container-1ETFDs.unread-2OHH1w::before {
