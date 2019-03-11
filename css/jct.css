@@ -146,8 +146,7 @@
 }
 
 .theme-dark .selected-nT-gM3:before {
-  background: var(--unread-bullet-color) !important;
-  animation: var(--unread-animation) var(--unread-animation-duration) linear infinite;
+  display: none;
 }
 
 .container-1aNBdK {
