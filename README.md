@@ -3,6 +3,8 @@ JustColumns is a light modified theme for Discord (with [BetterDiscord](https://
 
 The theme respects all the default Discord look but adding just more columns to the app for a better server listing.
 
+Contact: **Quake#1470**
+
 * **Double Column Server List**: [JCDouble.theme.css](https://raw.githubusercontent.com/Qu4k3/JustColumns/master/JCDouble.theme.css)
 
 * **Triple Column Server List**: [JCTriple.theme.css](https://raw.githubusercontent.com/Qu4k3/JustColumns/master/JCTriple.theme.css)
