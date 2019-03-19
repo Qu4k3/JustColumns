@@ -1,9 +1,13 @@
+<p align="center">
+        <img src="https://img.shields.io/github/last-commit/Qu4k3/JustColumns.svg" />
+        <img src="https://img.shields.io/maintenance/yes/2020.svg" />
+        <img src="https://img.shields.io/badge/Contact-Quake%231470-blue.svg" /> 
+</p>
+
 # JustColumns
 JustColumns is a light modified theme for Discord (with [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest))
 
 The theme respects all the default Discord look but adding just more columns to the app for a better server listing.
-
-Contact: **Quake#1470**
 
 * **Double Column Server List**: [JCDouble.theme.css](https://raw.githubusercontent.com/Qu4k3/JustColumns/master/JCDouble.theme.css)
 
