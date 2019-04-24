@@ -193,8 +193,8 @@
 }
 
 .item-2hkk8m {
-    animation: var(--unread-server-animation) 3s linear infinite;
-    background-color: var(--main-color);
+background: var(--unread-bullet-color) !important;
+  animation: var(--unread-animation) var(--unread-animation-duration) linear infinite;
     border-radius: inherit;
     border-radius: 100%;
     display: block;
