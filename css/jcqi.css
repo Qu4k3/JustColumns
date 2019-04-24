@@ -1,6 +1,6 @@
 /* DON'T TOUCH THE CODE BELOW */
 
-.scroller-2TZvBN > .container-1ETFDs:first-child > .homeButton-2Cw51C {
+.theme-dark .button-OhfaWu, .theme-light .button-OhfaWu {
   background: var(--friends-icon) !important;
   background-position: var(--friends-icon-position) !important;
   background-repeat: no-repeat !important;
@@ -156,6 +156,76 @@
 .container-1aNBdK {
     margin-left: 8px;
     margin-right: 2px;
+}
+
+/* Guild listing styles */
+
+.wrapper-1Rf91z .scroller-2TZvBN > div.listItem-2P_4kh:nth-child(1) {
+    width: 100% !important;
+    margin-bottom: 20px;    
+}
+
+.wrapper-1Rf91z .scroller-2TZvBN > div.listItem-2P_4kh:nth-child(1) .item-2hkk8m {
+    opacity: 0 !important;
+}
+
+.wrapper-1Rf91z .scroller-2TZvBN > div:not(.listItem-2P_4kh) > div {
+    width: 50px;
+    margin-left: 7px;
+}
+
+.wrapper-1Rf91z .scroller-2TZvBN > div:not(.listItem-2P_4kh) > div .item-2hkk8m {
+    opacity: 0 !important;
+}
+
+.wrapper-1Rf91z .scroller-2TZvBN > div:not(.listItem-2P_4kh) > div .wrapper-sa6paO {
+    display: none !important;
+}
+
+.listItem-2P_4kh {
+    width: auto;
+    margin-left: 9px;
+}
+
+.wrapper-sa6paO {
+    height: 10px;
+    width: 54px;
+}
+
+.item-2hkk8m {
+    animation: var(--unread-server-animation) 3s linear infinite;
+    background-color: var(--main-color);
+    border-radius: inherit;
+    border-radius: 100%;
+    display: block;
+    margin-left: 0;
+    margin-top: 0;
+    position: absolute;
+    top: 1px;
+    right: 2px;
+    /* width: 8px; */
+    height: 8px !important;
+    z-index: 10;
+}
+
+.pill-31IEus {
+    left: 0;
+    position: absolute;
+    top: -4px;
+}
+
+.wrapper-1Rf91z .scroller-2TZvBN .guildSeparator-3s64Iy {
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+    width: 248px;
+    display: block;
+    margin: 10px auto 5px;
+    margin-left: 10px;
+}
+
+.item-2hkk8m:not([style *= "height: 8px"]) {
+    background: transparent;
 }
 
 
