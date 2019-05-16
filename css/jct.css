@@ -226,7 +226,11 @@
 }
 
 .item-2hkk8m:not([style *= "height: 8px"]) {
-    background: transparent;
+    border-color: transparent;
+    background-color: transparent;
+}
+.item-2hkk8m:not([style *= "opacity: 0.7"]) {
+    border-color: transparent;
 }
 
 /* ANIMATIONS */
