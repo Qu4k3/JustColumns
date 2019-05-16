@@ -162,7 +162,7 @@
 
 .wrapper-1Rf91z .scroller-2TZvBN > div.listItem-2P_4kh:nth-child(1) {
     width: 100% !important;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .wrapper-1Rf91z .scroller-2TZvBN > div.listItem-2P_4kh:nth-child(1) .item-2hkk8m {
@@ -188,30 +188,31 @@
 }
 
 .wrapper-sa6paO {
-    height: 10px;
+    height: 24px;
     width: 54px;
 }
 
 .item-2hkk8m {
-background: var(--unread-bullet-color) !important;
-  animation: var(--unread-animation) var(--unread-animation-duration) linear infinite;
+    background: var(--unread-bullet-color) !important;
+    animation: var(--unread-animation) var(--unread-animation-duration) linear infinite;
     border-radius: inherit;
     border-radius: 100%;
     display: block;
     margin-left: 0;
     margin-top: 0;
     position: absolute;
-    top: 1px;
+    top: 5px;
+    left: 2px;
     /* right: 2px; */
-    width: 8px;
-    height: 8px !important;
+    width: 12px;
+    height: 12px !important;
     z-index: 10;
 }
 
 .pill-31IEus {
     left: 0;
     position: absolute;
-    top: -4px;
+    top: -6px;
 }
 
 .wrapper-1Rf91z .scroller-2TZvBN .guildSeparator-3s64Iy {
